@@ -3,7 +3,8 @@
 Developed by Abdelrahman Shaltout Swansea University, BEng Aerospace Engineering
 
 A high-performance 2D Ideal Magnetohydrodynamics solver implemented in Python. This project simulates complex plasma dynamics, specifically focusing on the stability of twisted magnetic flux tubes.
-Technical Specifications
+
+Technical Specs:
 
  HLLD  for high-resolution shock and contact capturing.
 
